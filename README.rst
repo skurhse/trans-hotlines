@@ -4,6 +4,10 @@
 .. _`Crisis Text Line`: https://www.crisistextline.org/texting-in
 .. _`The National Sexual Assault Online Hotline`: https://hotline.rainn.org/
 .. _`The National Domestic Violence Hotline`: https://www.thehotline.org/help/
+.. _`Shout Crisis Text Line`: https://www.giveusashout.org/get-help/
+
+.. _`Trevor Space`: https://www.trevorspace.org/
+.. _`TransCodeSF`: http://transcodesf.org/
 
 Lifelines
 ---------
@@ -38,8 +42,8 @@ Canada
 UK
 ``
 
-[Shout Crisis Text Line](https://www.giveusashout.org/get-help/)
-
+`Shout Crisis Text Line`_
+ lorum ipsum
 
 Communities
 -----------
@@ -47,13 +51,15 @@ Communities
 Youth
 `````
 
-[Trevor Space](https://www.trevorspace.org/)
-: An affirming international community for LGBTQ young people ages 13-24.
+`Trevor Space`_
+  An affirming international community for LGBTQ young people ages 13-24.
 
 Regional
 ````````
 
-* [TransCodeSF](http://transcodesf.org/)
+`TransCodeSF`_
+ lorum ipsum
+ 
 * [Out In Tech](http://www.outintech.com/)
 
 Organizations
