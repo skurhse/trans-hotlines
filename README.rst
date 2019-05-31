@@ -24,37 +24,37 @@ Lifelines
   - 24-hour toll-free confidential suicide hotline for LGBTQ youth.
 
 `National Suicide Prevention Lifeline`_
-  :strong:`US`
+  :emphasis:`US`
   - 24/7 free and confidential support hotline for people in distress and those seeking prevention and crisis resources.
 
 `Crisis Text Line`_
-  :strong:`US`
+  :emphasis:`US`
   - Free 24/7 confidential text message service for people in crisis.
 
 `Shout Crisis Text Line`_
-  :strong:`UK`
+  :emphasis:`UK`
   - Free 24/7 confidential text message service for people in crisis.
 
 `The National Sexual Assault Online Hotline`_
-  :strong:`US`
+  :emphasis:`US`
   - Hotline that routes the caller to their nearest sexual assault service provider.
 
 `The National Domestic Violence Hotline`_
-  :strong:`US`
+  :emphasis:`US`
   - Hotline can help victims and survivors of domestic violence.
 
 `Trevor Space`_
-  :strong:`International`
+  :emphasis:`International`
   - An affirming international community for LGBTQ young people ages 13-24.
  
 `Out in Tech`_
-  :strong:`US, UK`
+  :emphasis:`US, UK`
   - A non-profit that unites the LGBTQ+ tech community with active chapters in New York City, Los Angeles, San Francisco, London, Portland, Chicago, DC, Boston, and Austin.
 
 `oSTEM`_
-  :strong:`International`
+  :emphasis:`International`
   - A non-profit professional society focused on LGBTQ people in the STEM community with chapters across the United States and abroad
 
 `REFUGE Restrooms`_
-  :strong:`US (?)`
+  :emphasis:`US (?)`
   A web application that seeks to provide safe restroom access. Users can search for restrooms by proximity, add new restroom listings and comment and rate existing listings.
