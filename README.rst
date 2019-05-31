@@ -5,9 +5,6 @@
 .. _`The National Sexual Assault Online Hotline`: https://hotline.rainn.org/
 .. _`The National Domestic Violence Hotline`: https://www.thehotline.org/help/
 
-Transgender Resources
-=====================
-
 Lifelines
 ---------
 
