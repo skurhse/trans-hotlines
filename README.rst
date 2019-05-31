@@ -7,7 +7,10 @@
 .. _`Shout Crisis Text Line`: https://www.giveusashout.org/get-help/
 
 .. _`Trevor Space`: https://www.trevorspace.org/
-.. _`TransCodeSF`: http://transcodesf.org/
+
+.. _`Out in Tech`: http://www.outintech.com/
+.. _`oSTEM`: https://www.ostem.org/
+.. _`REFUGE Restrooms`: http://www.refugerestrooms.org/
 
 Lifelines
 ---------
@@ -33,30 +36,14 @@ Lifelines
 Communities
 -----------
 
-Youth
-`````
-
-`Trevor Space`_
+`Trevor Space`_ :superscript:`International`
   An affirming international community for LGBTQ young people ages 13-24.
-
-Regional
-````````
-
-`TransCodeSF`_
- lorum ipsum
  
-* [Out In Tech](http://www.outintech.com/)
+`Out in Tech`_ :superscript:`US, UK`
+  A non-profit that unites the LGBTQ+ tech community with active chapters in New York City, Los Angeles, San Francisco, London, Portland, Chicago, DC, Boston, and Austin.
 
-Organizations
--------------
+`oSTEM`_
+  lorum ipsum
 
-Advocacy
-````````
-
-* [Trans*H4CK](http://www.transhack.org/)
-* [oSTEM](https://www.ostem.org/)
-
-Projects
-````````
-
-* [REFUGE Restrooms](http://www.refugerestrooms.org/)
+`REFUGE Restrooms`_
+  lorum ipsum
