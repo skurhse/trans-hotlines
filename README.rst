@@ -6,8 +6,8 @@ Lifelines
 
 USA
 
-Trans Lifeline_
-.. _Trans Lifeline: https://www.translifeline.org/hotline
+`Trans Lifeline`_
+.. _`Trans Lifeline`: https://www.translifeline.org/hotline
 
 : Peer support hotline run by trans people for trans and questioning callers.
 
