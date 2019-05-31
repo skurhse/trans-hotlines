@@ -1,9 +1,3 @@
-+++
-title = "Resources"
-date = "2019-05-30"
-author = "tp-org"
-+++
-
 ## Lifelines
 
 ### USA
