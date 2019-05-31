@@ -1,8 +1,14 @@
-## Lifelines
+Transgender Resources
+=====================
 
-### USA
+Lifelines
+---------
 
-[Trans Lifeline](https://www.translifeline.org/hotline)
+USA
+
+Trans Lifeline_
+.. _Trans Lifeline: https://www.translifeline.org/hotline
+
 : Peer support hotline run by trans people for trans and questioning callers.
 
 [TrevorLifeline](https://www.thetrevorproject.org/get-help-now/)
@@ -25,12 +31,13 @@
 [Trans Lifeline](https://www.translifeline.org/hotline/)
 : Peer support hotline run by trans people for trans and questioning callers.
 
-### UK
+UK
 
 [Shout Crisis Text Line](https://www.giveusashout.org/get-help/)
 : 
 
-## Communities
+Communities
+-----------
 
 ### Youth
 
