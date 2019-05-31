@@ -33,17 +33,14 @@ Lifelines
 `The National Domestic Violence Hotline`_ :superscript:`US`
   Hotline can help victims and survivors of domestic violence.
 
-Communities
------------
-
 `Trevor Space`_ :superscript:`International`
   An affirming international community for LGBTQ young people ages 13-24.
  
 `Out in Tech`_ :superscript:`US, UK`
   A non-profit that unites the LGBTQ+ tech community with active chapters in New York City, Los Angeles, San Francisco, London, Portland, Chicago, DC, Boston, and Austin.
 
-`oSTEM`_
-  lorum ipsum
+`oSTEM`_ :superscript:`International`
+  A non-profit professional society focused on LGBTQ people in the STEM community with chapters across the United States and abroad
 
-`REFUGE Restrooms`_
-  lorum ipsum
+`REFUGE Restrooms`_:superscript:`US`
+  A web application that seeks to provide safe restroom access. Users can search for restrooms by proximity, add new restroom listings and comment and rate existing listings.
