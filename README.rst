@@ -16,11 +16,11 @@ Lifelines
 ---------
 
 `Trans Lifeline`_
-  :strong:`US, CA`
+  :emphasis:`US, CA`
   - Peer support hotline run by trans people for trans and questioning callers.
 
 `TrevorLifeline`_
-  :strong:`US`
+  :emphasis:`US`
   - 24-hour toll-free confidential suicide hotline for LGBTQ youth.
 
 `National Suicide Prevention Lifeline`_
@@ -56,5 +56,5 @@ Lifelines
   - A non-profit professional society focused on LGBTQ people in the STEM community with chapters across the United States and abroad
 
 `REFUGE Restrooms`_
-  :emphasis:`US (?)`
-  A web application that seeks to provide safe restroom access. Users can search for restrooms by proximity, add new restroom listings and comment and rate existing listings.
+  :emphasis:`International`
+  - A web application that seeks to provide safe restroom access. Users can search for restrooms by proximity, add new restroom listings and comment and rate existing listings.
