@@ -6,11 +6,12 @@
 .. _`The National Domestic Violence Hotline`: https://www.thehotline.org/help/
 .. _`Shout Crisis Text Line`: https://www.giveusashout.org/get-help/
 
-.. _`Trevor Space`: https://www.trevorspace.org/
+.. _`REFUGE Restrooms`: http://www.refugerestrooms.org/
 
+.. _`Trevor Space`: https://www.trevorspace.org/
 .. _`Out in Tech`: http://www.outintech.com/
 .. _`oSTEM`: https://www.ostem.org/
-.. _`REFUGE Restrooms`: http://www.refugerestrooms.org/
+
 
 Lifelines
 ---------
@@ -43,6 +44,16 @@ Lifelines
   :emphasis:`US`
   - Hotline can help victims and survivors of domestic violence.
 
+Projects
+--------
+
+`REFUGE Restrooms`_
+  :emphasis:`International`
+  - A web application that seeks to provide safe restroom access. Users can search for restrooms by proximity, add new restroom listings and comment and rate existing listings.
+
+Communities
+-----------
+
 `Trevor Space`_
   :emphasis:`International`
   - An affirming international community for LGBTQ young people ages 13-24.
@@ -54,7 +65,3 @@ Lifelines
 `oSTEM`_
   :emphasis:`International`
   - A non-profit professional society focused on LGBTQ people in the STEM community with chapters across the United States and abroad
-
-`REFUGE Restrooms`_
-  :emphasis:`International`
-  - A web application that seeks to provide safe restroom access. Users can search for restrooms by proximity, add new restroom listings and comment and rate existing listings.
