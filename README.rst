@@ -12,38 +12,23 @@
 Lifelines
 ---------
 
-USA
-```
-
-`Trans Lifeline`_
+`Trans Lifeline`_ :superscript:`US, CA`
   Peer support hotline run by trans people for trans and questioning callers.
 
-`TrevorLifeline`_
+`TrevorLifeline`_ :superscript:`US`
   24-hour toll-free confidential suicide hotline for LGBTQ youth.
 
-`National Suicide Prevention Lifeline`_
+`National Suicide Prevention Lifeline`_ :superscript:`US`
   24/7 free and confidential support hotline for people in distress and those seeking prevention and crisis resources.
 
-`Crisis Text Line`_
+`Crisis Text Line`_ :superscript:`US` / `Shout Crisis Text Line`_ :superscript:`UK`
   Free 24/7 confidential text message service for people in crisis.
 
-`The National Sexual Assault Online Hotline`_
+`The National Sexual Assault Online Hotline`_ :superscript:`US`
   Hotline that routes the caller to their nearest sexual assault service provider.
 
-`The National Domestic Violence Hotline`_
+`The National Domestic Violence Hotline`_ :superscript:`US`
   Hotline can help victims and survivors of domestic violence.
-
-Canada
-``````
-
-`Trans Lifeline`_
-  Peer support hotline run by trans people for trans and questioning callers.
-
-UK
-``
-
-`Shout Crisis Text Line`_
- lorum ipsum
 
 Communities
 -----------
