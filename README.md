@@ -1,2 +1,2 @@
-# trans-resources
-A GitHub-flavored Markdown compendium of trans online resources
+# transgender-resources
+A GitHub-flavored Markdown compendium of transgender online resources
