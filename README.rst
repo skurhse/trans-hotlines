@@ -42,7 +42,7 @@ Lifelines
 
 `The National Domestic Violence Hotline`_
   :emphasis:`US`
-  - Hotline can help victims and survivors of domestic violence.
+  - Hotline that can help victims and survivors of domestic violence.
 
 Projects
 --------
