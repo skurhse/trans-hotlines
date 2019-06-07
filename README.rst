@@ -42,7 +42,7 @@ Legal Help
 
 `Transgender Legal Defense & Education Fund Name Change Project`_
   :emphasis:`Atlanta, Chicago, Detroit, Milwaukee, New Jersey, New York City, Philadelphia, Pittsburgh`
-  - Provides pro bono legal name change services to low-income transgender, gender non-conforming, and non-binary people through partnerships.
+  - Provides pro bono legal name change services to low-income transgender, gender non-conforming, and non-binary people.
 
 Employment Help
 ---------------
