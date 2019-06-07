@@ -52,7 +52,7 @@ Legal Help
 
 `Transgender Law Center Legal Information Helpline`_
   :emphasis:`US`
-  - Trans-led organization advocating self-determination for all people. Grounded in legal expertise and committed to racial justice, TLC employs a variety of community-driven strategies to keep transgender and gender nonconforming people alive, thriving, and fighting for liberation.
+  - Provides basic information about laws and policies that affect transgender people.
 
 Employment Help
 ---------------
@@ -62,7 +62,7 @@ Employment Help
   - Program designed to help create inclusive workplaces and jobs for trans and gender non-conforming people.
 
 Software Projects
---------
+-----------------
 
 `REFUGE Restrooms`_
   :emphasis:`International`
