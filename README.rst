@@ -7,6 +7,7 @@
 .. _`Shout Crisis Text Line`: https://www.giveusashout.org/get-help/
 
 .. _`Transgender Law Center Legal Information Helpline`: https://transgenderlawcenter.org/legalinfo
+.. _`Slyvia Rivera Law Project`: https://srlp.org/legal-services/
 
 .. _`Trans Employment Program`: https://transemploymentprogram.org/
 
@@ -54,11 +55,15 @@ Legal Help
   :emphasis:`US`
   - Provides basic information about laws and policies that affect transgender people.
 
+`Slyvia Rivera Law Project`_
+  :emphasis:`New York State`
+  - Provides direct representation for low-income transgender people and transgender people of color.
+
 Employment Help
 ---------------
 
 `Trans Employment Program`_
-  :emphasis:`US: SF Bay`
+  :emphasis:`San Francisco Bay`
   - Program designed to help create inclusive workplaces and jobs for trans and gender non-conforming people.
 
 Software Projects
