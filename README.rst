@@ -8,6 +8,7 @@
 
 .. _`Transgender Law Center Legal Information Helpline`: https://transgenderlawcenter.org/legalinfo
 .. _`Slyvia Rivera Law Project`: https://srlp.org/legal-services/
+.. _`Transgender Legal Defense & Education Fund Name Change Project`: http://www.transgenderlegal.org/work_show.php?id=7 
 
 .. _`Trans Employment Program`: https://transemploymentprogram.org/
 
@@ -58,6 +59,10 @@ Legal Help
 `Slyvia Rivera Law Project`_
   :emphasis:`New York State`
   - Provides direct representation for low-income transgender people and transgender people of color.
+
+`Transgender Legal Defense & Education Fund Name Change Project`_
+  :emphasis:`Atlanta, Chicago, Detroit, Milwaukee, New Jersey, New York City, Philadelphia, Pittsburgh`
+  - Provides pro bono legal name change services to low-income transgender, gender non-conforming, and non-binary people through partnerships.
 
 Employment Help
 ---------------
