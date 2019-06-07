@@ -21,7 +21,7 @@ Crisis Help
 ---------
 
 `Trans Lifeline`_
-  :emphasis:`US, CA`
+  :emphasis:`US, Canada`
   - Peer support hotline run by trans people for trans and questioning callers.
 
 `TrevorLifeline`_
