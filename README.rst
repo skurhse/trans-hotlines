@@ -1,5 +1,3 @@
-.. lorum ipsum
-
 .. _`Trans Lifeline`: https://www.translifeline.org/hotline
 .. _`TrevorLifeline`: https://www.thetrevorproject.org/get-help-now/
 .. _`National Suicide Prevention Lifeline`: http://suicidepreventionlifeline.org/talk-to-someone-now/
@@ -8,11 +6,14 @@
 .. _`The National Domestic Violence Hotline`: https://www.thehotline.org/help/
 .. _`Shout Crisis Text Line`: https://www.giveusashout.org/get-help/
 
+.. _`Trans Employment Program`: https://transemploymentprogram.org/
+
 .. _`REFUGE Restrooms`: http://www.refugerestrooms.org/
 
 .. _`Trevor Space`: https://www.trevorspace.org/
 .. _`Out in Tech`: http://www.outintech.com/
 .. _`oSTEM`: https://www.ostem.org/
+
 
 
 Lifelines
@@ -38,13 +39,24 @@ Lifelines
   :emphasis:`UK`
   - Free 24/7 confidential text message service for people in crisis.
 
-`The National Sexual Assault Online Hotline`_
+`National Sexual Assault Online Hotline`_
   :emphasis:`US`
   - Hotline that routes the caller to their nearest sexual assault service provider.
 
-`The National Domestic Violence Hotline`_
+`National Domestic Violence Hotline`_
   :emphasis:`US`
   - Hotline that can help victims and survivors of domestic violence.
+
+Legal Help
+----------
+
+`Trans Employment Program`_
+  :emphasis:`SF Bay`
+  - Program designed to help create inclusive workplaces and jobs for trans and gender non-conforming people.
+
+Employment Help
+---------------
+
 
 Projects
 --------
