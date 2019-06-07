@@ -2,8 +2,8 @@
 .. _`TrevorLifeline`: https://www.thetrevorproject.org/get-help-now/
 .. _`National Suicide Prevention Lifeline`: http://suicidepreventionlifeline.org/talk-to-someone-now/
 .. _`Crisis Text Line`: https://www.crisistextline.org/texting-in
-.. _`The National Sexual Assault Online Hotline`: https://hotline.rainn.org/
-.. _`The National Domestic Violence Hotline`: https://www.thehotline.org/help/
+.. _`National Sexual Assault Online Hotline`: https://hotline.rainn.org/
+.. _`National Domestic Violence Hotline`: https://www.thehotline.org/help/
 .. _`Shout Crisis Text Line`: https://www.giveusashout.org/get-help/
 
 .. _`Transgender Law Center Legal Information Helpline`: https://transgenderlawcenter.org/legalinfo
