@@ -1,23 +1,3 @@
-.. _`Trans Lifeline`: https://www.translifeline.org/hotline
-.. _`TrevorLifeline`: https://www.thetrevorproject.org/get-help-now/
-.. _`National Suicide Prevention Lifeline`: http://suicidepreventionlifeline.org/talk-to-someone-now/
-.. _`Crisis Text Line`: https://www.crisistextline.org/texting-in
-.. _`National Sexual Assault Online Hotline`: https://hotline.rainn.org/
-.. _`National Domestic Violence Hotline`: https://www.thehotline.org/help/
-.. _`Shout Crisis Text Line`: https://www.giveusashout.org/get-help/
-
-.. _`Transgender Law Center Legal Information Helpline`: https://transgenderlawcenter.org/legalinfo
-.. _`Slyvia Rivera Law Project`: https://srlp.org/legal-services/
-.. _`Transgender Legal Defense & Education Fund Name Change Project`: http://www.transgenderlegal.org/work_show.php?id=7 
-
-.. _`Trans Employment Program`: https://transemploymentprogram.org/
-
-.. _`REFUGE Restrooms`: http://www.refugerestrooms.org/
-
-.. _`Trevor Space`: https://www.trevorspace.org/
-.. _`Out in Tech`: http://www.outintech.com/
-.. _`oSTEM`: https://www.ostem.org/
-
 Crisis Help
 ---------
 
@@ -71,6 +51,10 @@ Employment Help
   :emphasis:`San Francisco Bay`
   - Program designed to help create inclusive workplaces and jobs for trans and gender non-conforming people.
 
+`TransTech Social Enterprises`_
+  :emphasis:`Chicago`
+  - An incubator for LGBTQ Talent with a focus on economically empowering transgender people in our community.
+
 Software Projects
 -----------------
 
@@ -92,3 +76,24 @@ Communities
 `oSTEM`_
   :emphasis:`International`
   - A non-profit professional society focused on LGBTQ people in the STEM community with chapters across the United States and abroad
+
+.. _`Trans Lifeline`: https://www.translifeline.org/hotline
+.. _`TrevorLifeline`: https://www.thetrevorproject.org/get-help-now/
+.. _`National Suicide Prevention Lifeline`: http://suicidepreventionlifeline.org/talk-to-someone-now/
+.. _`Crisis Text Line`: https://www.crisistextline.org/texting-in
+.. _`National Sexual Assault Online Hotline`: https://hotline.rainn.org/
+.. _`National Domestic Violence Hotline`: https://www.thehotline.org/help/
+.. _`Shout Crisis Text Line`: https://www.giveusashout.org/get-help/
+
+.. _`Transgender Law Center Legal Information Helpline`: https://transgenderlawcenter.org/legalinfo
+.. _`Slyvia Rivera Law Project`: https://srlp.org/legal-services/
+.. _`Transgender Legal Defense & Education Fund Name Change Project`: http://www.transgenderlegal.org/work_show.php?id=7 
+
+.. _`Trans Employment Program`: https://transemploymentprogram.org/
+.. _`TransTech Social Enterprises`: https://www.transtechsocial.org/memberships/
+
+.. _`REFUGE Restrooms`: http://www.refugerestrooms.org/
+
+.. _`Trevor Space`: https://www.trevorspace.org/
+.. _`Out in Tech`: http://www.outintech.com/
+.. _`oSTEM`: https://www.ostem.org/
