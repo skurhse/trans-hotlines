@@ -16,9 +16,7 @@
 .. _`Out in Tech`: http://www.outintech.com/
 .. _`oSTEM`: https://www.ostem.org/
 
-
-
-Lifelines
+Crisis Help
 ---------
 
 `Trans Lifeline`_
