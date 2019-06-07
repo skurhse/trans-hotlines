@@ -6,6 +6,8 @@
 .. _`The National Domestic Violence Hotline`: https://www.thehotline.org/help/
 .. _`Shout Crisis Text Line`: https://www.giveusashout.org/get-help/
 
+.. _`Transgender Law Center Legal Information Helpline`: https://transgenderlawcenter.org/legalinfo
+
 .. _`Trans Employment Program`: https://transemploymentprogram.org/
 
 .. _`REFUGE Restrooms`: http://www.refugerestrooms.org/
@@ -50,15 +52,18 @@ Lifelines
 Legal Help
 ----------
 
-`Trans Employment Program`_
-  :emphasis:`SF Bay`
-  - Program designed to help create inclusive workplaces and jobs for trans and gender non-conforming people.
+`Transgender Law Center Legal Information Helpline`_
+  :emphasis:`US`
+  - Trans-led organization advocating self-determination for all people. Grounded in legal expertise and committed to racial justice, TLC employs a variety of community-driven strategies to keep transgender and gender nonconforming people alive, thriving, and fighting for liberation.
 
 Employment Help
 ---------------
 
+`Trans Employment Program`_
+  :emphasis:`US: SF Bay`
+  - Program designed to help create inclusive workplaces and jobs for trans and gender non-conforming people.
 
-Projects
+Software Projects
 --------
 
 `REFUGE Restrooms`_
