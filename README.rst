@@ -1,4 +1,7 @@
-.. contents:: Table of Contents
+Trans Resources
+===============
+
+.. contents:: :emphasis:`web resources for trans people`
 
 Crisis Help
 -----------
