@@ -1,4 +1,4 @@
-.. contents::
+.. contents:: Table of Contents
 
 Crisis Help
 -----------
