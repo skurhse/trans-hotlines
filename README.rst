@@ -1,7 +1,7 @@
 Trans Resources
 ===============
 
-.. contents:: Table of Contents
+.. contents::
 
 Crisis Help
 -----------
