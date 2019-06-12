@@ -1,7 +1,10 @@
+Trans Resources
+===============
+
 .. contents:: Table of Contents
 
 Crisis Help
----------
+-----------
 
 `Trans Lifeline`_
   :emphasis:`US, Canada`
