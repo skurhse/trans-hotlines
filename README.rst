@@ -1,6 +1,3 @@
-Trans Resources
-===============
-
 .. contents::
 
 Crisis Help
