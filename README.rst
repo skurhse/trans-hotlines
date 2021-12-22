@@ -8,7 +8,7 @@ Trans-focused
 
 `Trans Lifeline Hotline`_
   :emphasis:`US, CAN`
-  -  Peer support phone service run by trans people for our trans and questioning peers.
+  - Peer support phone service run by trans people for our trans and questioning peers.
 
 `TrevorLifeline`_
   :emphasis:`US`
@@ -46,7 +46,7 @@ Text-message
   :emphasis:`UK`
   - Free 24/7 confidential text message service for people in crisis.
 
-.. _`Trans Lifeline`: https://www.translifeline.org/hotline
+.. _`Trans Lifeline Hotline`: https://www.translifeline.org/hotline
 .. _`TrevorLifeline`: https://www.thetrevorproject.org/get-help-now/
 
 .. _`National Suicide Prevention Lifeline`: http://suicidepreventionlifeline.org/talk-to-someone-now/
