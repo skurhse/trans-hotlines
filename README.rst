@@ -34,54 +34,6 @@ Crisis Help
   :emphasis:`US`
   - Hotline that can help victims and survivors of domestic violence.
 
-Legal Help
-----------
-
-`Transgender Law Center Legal Information Helpline`_
-  :emphasis:`US`
-  - Provides basic information about laws and policies that affect transgender people.
-
-`Slyvia Rivera Law Project`_
-  :emphasis:`New York State`
-  - Provides direct representation for low-income transgender people and transgender people of color.
-
-`Transgender Legal Defense & Education Fund Name Change Project`_
-  :emphasis:`Atlanta, Chicago, Detroit, Milwaukee, New Jersey, New York City, Philadelphia, Pittsburgh`
-  - Provides pro bono legal name change services to low-income transgender, gender non-conforming, and non-binary people.
-
-Employment Help
----------------
-
-`Trans Employment Program`_
-  :emphasis:`San Francisco Bay`
-  - Program designed to help create inclusive workplaces and jobs for trans and gender non-conforming people.
-
-`TransTech Social Enterprises`_
-  :emphasis:`Chicago`
-  - An incubator for LGBTQ Talent with a focus on economically empowering transgender people in our community.
-
-Software Projects
------------------
-
-`REFUGE Restrooms`_
-  :emphasis:`International`
-  - A web application that seeks to provide safe restroom access. Users can search for restrooms by proximity, add new restroom listings and comment and rate existing listings.
-
-Communities
------------
-
-`Trevor Space`_
-  :emphasis:`International`
-  - An affirming international community for LGBTQ young people ages 13-24.
- 
-`Out in Tech`_
-  :emphasis:`US, UK`
-  - A non-profit that unites the LGBTQ+ tech community with active chapters in New York City, Los Angeles, San Francisco, London, Portland, Chicago, DC, Boston, and Austin.
-
-`oSTEM`_
-  :emphasis:`International`
-  - A non-profit professional society focused on LGBTQ people in the STEM community with chapters across the United States and abroad
-
 .. _`Trans Lifeline`: https://www.translifeline.org/hotline
 .. _`TrevorLifeline`: https://www.thetrevorproject.org/get-help-now/
 .. _`National Suicide Prevention Lifeline`: http://suicidepreventionlifeline.org/talk-to-someone-now/
