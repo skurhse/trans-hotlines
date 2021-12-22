@@ -29,7 +29,9 @@ Sexual assault hotlines
 
 `National Sexual Assault Online Hotline`_
   :emphasis:`US`
-  - Hotline that routes the caller to their nearest sexual assault service provider.
+  - Online confidential crisis support information, advice and referral.
+
+  Phone hotline to talk to a trained staff member at your local sexual assault service provider.
 
 Domestic violence hotlines
 --------------------------
