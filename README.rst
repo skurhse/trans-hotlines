@@ -6,9 +6,9 @@ Trans Crisis Hotlines
 Trans-focused
 -------------
 
-`Trans Lifeline`_
+`Trans Lifeline Hotline`_
   :emphasis:`US, CAN`
-  - Peer support hotline run by trans people for trans and questioning callers.
+  -  Peer support phone service run by trans people for our trans and questioning peers.
 
 `TrevorLifeline`_
   :emphasis:`US`
