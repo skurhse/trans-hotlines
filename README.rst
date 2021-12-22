@@ -24,15 +24,15 @@ Suicide-prevention
   :emphasis:`US`
   - 24/7 free and confidential support hotline for people in distress and those seeking prevention and crisis resources.
 
-Sexual Assault
---------------
+Sexual Assault Help
+-------------------
 
 `National Sexual Assault Online Hotline`_
   :emphasis:`US`
   - Hotline that routes the caller to their nearest sexual assault service provider.
 
-Domestic Violence
------------------
+Domestic Violence Help
+----------------------
 
 `National Domestic Violence Hotline`_
   :emphasis:`US`
