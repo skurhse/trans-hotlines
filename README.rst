@@ -38,8 +38,8 @@ Domestic Violence Help
   :emphasis:`US`
   - Hotline that can help victims and survivors of domestic violence.
 
-Text-message
-------------
+Crisis text lines
+-----------------
 
 `Crisis Text Line`_
   :emphasis:`US`
