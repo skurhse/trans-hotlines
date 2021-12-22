@@ -1,6 +1,8 @@
 Crisis Hotlines
 ===============
 
+.. contents:: :emphasis:``
+
 Trans-focused
 -------------
 
