@@ -3,7 +3,7 @@ Trans Crisis Hotlines
 
 .. contents:: Crisis Hotline Categories
 
-Trans Peer lifelines
+Trans peer lifelines
 --------------------
 
 `Trans Lifeline Hotline`_
@@ -13,7 +13,9 @@ Trans Peer lifelines
 
   Call us if you need someone trans to talk to, even if you’re not in crisis or if you’re not sure you’re trans.
 
-Trans Youth lifelines
+  No nonconsensual active rescue.
+
+Trans youth lifelines
 ---------------------
 
 `TrevorLifeline`_
