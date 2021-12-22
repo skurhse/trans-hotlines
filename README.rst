@@ -1,7 +1,7 @@
-Trans Crisis Hotlines  
-=====================
+Trans  Hotlines  
+===============
 
-.. contents:: Crisis Hotline Categories
+.. contents:: Hotline Categories
 
 Trans peer lifelines
 --------------------
