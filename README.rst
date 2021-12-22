@@ -1,7 +1,7 @@
 Trans Crisis Hotlines  
 =====================
 
-.. contents:: Hotline Categories
+.. contents:: Crisis Hotline Categories
 
 Peer support
 ------------
