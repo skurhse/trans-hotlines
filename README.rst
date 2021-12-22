@@ -3,16 +3,19 @@ Trans Crisis Hotlines
 
 .. contents:: Hotline Categories
 
-Trans-focused
+Peer support
 -------------
 
 `Trans Lifeline Hotline`_
   :emphasis:`US, CAN`
   - Peer support phone service run by trans people for our trans and questioning peers.
 
+Youth support
+-------------
+
 `TrevorLifeline`_
   :emphasis:`US`
-  - 24-hour toll-free confidential suicide hotline for LGBTQ youth.
+  - 24/7 free and confidential phone, text and chat services for LGBTQ young people.
 
 Suicide-prevention
 -----------------
