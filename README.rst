@@ -1,7 +1,7 @@
-Trans Resources
+Trans Tools
 ===============
 
-.. contents:: :emphasis:`web resources for trans people`
+.. contents:: :emphasis:`web resources for transgender people`
 
 Crisis Help
 -----------
