@@ -1,5 +1,8 @@
 Crisis Hotlines
------------
+===============
+
+Trans-focused
+-------------
 
 `Trans Lifeline`_
   :emphasis:`US, Canada`
@@ -9,9 +12,29 @@ Crisis Hotlines
   :emphasis:`US`
   - 24-hour toll-free confidential suicide hotline for LGBTQ youth.
 
+Suicde-prevention
+-----------------
+
 `National Suicide Prevention Lifeline`_
   :emphasis:`US`
   - 24/7 free and confidential support hotline for people in distress and those seeking prevention and crisis resources.
+
+Sexual Assault
+--------------
+
+`National Sexual Assault Online Hotline`_
+  :emphasis:`US`
+  - Hotline that routes the caller to their nearest sexual assault service provider.
+
+Domestic Violence
+-----------------
+
+`National Domestic Violence Hotline`_
+  :emphasis:`US`
+  - Hotline that can help victims and survivors of domestic violence.
+
+Text-message
+------------
 
 `Crisis Text Line`_
   :emphasis:`US`
@@ -21,13 +44,6 @@ Crisis Hotlines
   :emphasis:`UK`
   - Free 24/7 confidential text message service for people in crisis.
 
-`National Sexual Assault Online Hotline`_
-  :emphasis:`US`
-  - Hotline that routes the caller to their nearest sexual assault service provider.
-
-`National Domestic Violence Hotline`_
-  :emphasis:`US`
-  - Hotline that can help victims and survivors of domestic violence.
 
 .. _`Trans Lifeline`: https://www.translifeline.org/hotline
 .. _`TrevorLifeline`: https://www.thetrevorproject.org/get-help-now/
