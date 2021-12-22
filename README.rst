@@ -1,10 +1,10 @@
 Trans Crisis Hotlines  
 =====================
 
-.. contents:: Service Categories
+.. contents:: Hotline Categories
 
 Peer support
--------------
+------------
 
 `Trans Lifeline Hotline`_
   :emphasis:`US, CAN`
@@ -38,8 +38,8 @@ Domestic violence help
   :emphasis:`US`
   - Hotline that can help victims and survivors of domestic violence.
 
-Crisis text lines
------------------
+Crisis text help
+----------------
 
 `Crisis Text Line`_
   :emphasis:`US`
