@@ -17,8 +17,8 @@ Youth support
   :emphasis:`US`
   - 24/7 free and confidential phone, text and chat services for LGBTQ young people.
 
-Suicide-prevention
------------------
+Suicide Prevention Help
+-----------------------
 
 `National Suicide Prevention Lifeline`_
   :emphasis:`US`
