@@ -10,6 +10,8 @@ Trans Peer lifelines
   :emphasis:`US, CAN`
   - Peer support phone service run by trans people for our trans and questioning peers.
 
+  - Call us if you need someone trans to talk to, even if you’re not in crisis or if you’re not sure you’re trans.
+
 Trans Youth lifelines
 ---------------------
 
