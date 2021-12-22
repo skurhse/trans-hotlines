@@ -7,7 +7,7 @@ Trans-focused
 -------------
 
 `Trans Lifeline`_
-  :emphasis:`US, Canada`
+  :emphasis:`US, CAN`
   - Peer support hotline run by trans people for trans and questioning callers.
 
 `TrevorLifeline`_
