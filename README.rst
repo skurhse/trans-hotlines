@@ -1,4 +1,4 @@
-Transgender Crisis Hotline Web Links
+Crisis Hotlines
 -----------
 
 `Trans Lifeline`_
