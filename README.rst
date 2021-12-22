@@ -19,7 +19,7 @@ Trans Youth lifelines
   :emphasis:`US`
   - 24/7 - Free and confidential phone, text and chat services for LGBTQ young people.
   
-  We’re here for you. If you are thinking about harming yourself — get immediate support. 
+  We’re here for you. If you are thinking about harming yourself—get immediate support. 
 
 Suicide prevention lifelines
 ----------------------------
