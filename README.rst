@@ -3,43 +3,43 @@ Trans Crisis Hotlines
 
 .. contents:: Crisis Hotline Categories
 
-Peer lifelines
---------------
+Trans Peer lifelines
+--------------------
 
 `Trans Lifeline Hotline`_
   :emphasis:`US, CAN`
   - Peer support phone service run by trans people for our trans and questioning peers.
 
-Youth lifelines
---------------
+Trans Youth lifelines
+---------------------
 
 `TrevorLifeline`_
   :emphasis:`US`
   - 24/7 free and confidential phone, text and chat services for LGBTQ young people.
 
-Suicide prevention help
------------------------
+Suicide prevention lifelines
+----------------------------
 
 `National Suicide Prevention Lifeline`_
   :emphasis:`US`
   - 24/7 free and confidential support hotline for people in distress and those seeking prevention and crisis resources.
 
-Sexual assault help
--------------------
+Sexual assault hotlines
+-----------------------
 
 `National Sexual Assault Online Hotline`_
   :emphasis:`US`
   - Hotline that routes the caller to their nearest sexual assault service provider.
 
-Domestic violence help
-----------------------
+Domestic violence hotlines
+--------------------------
 
 `National Domestic Violence Hotline`_
   :emphasis:`US`
   - Hotline that can help victims and survivors of domestic violence.
 
-Crisis text help
-----------------
+Crisis text lines
+------------------
 
 `Crisis Text Line`_
   :emphasis:`US`
