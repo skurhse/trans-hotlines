@@ -17,21 +17,21 @@ Youth support
   :emphasis:`US`
   - 24/7 free and confidential phone, text and chat services for LGBTQ young people.
 
-Suicide Prevention Help
+Suicide prevention help
 -----------------------
 
 `National Suicide Prevention Lifeline`_
   :emphasis:`US`
   - 24/7 free and confidential support hotline for people in distress and those seeking prevention and crisis resources.
 
-Sexual Assault Help
+Sexual assault help
 -------------------
 
 `National Sexual Assault Online Hotline`_
   :emphasis:`US`
   - Hotline that routes the caller to their nearest sexual assault service provider.
 
-Domestic Violence Help
+Domestic violence help
 ----------------------
 
 `National Domestic Violence Hotline`_
