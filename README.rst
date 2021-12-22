@@ -1,7 +1,7 @@
-Crisis Hotlines
-===============
+Trans Crisis Hotlines  
+=====================
 
-.. contents:: :emphasis:``
+.. contents:: Hotline Categories
 
 Trans-focused
 -------------
@@ -14,7 +14,7 @@ Trans-focused
   :emphasis:`US`
   - 24-hour toll-free confidential suicide hotline for LGBTQ youth.
 
-Suicde-prevention
+Suicide-prevention
 -----------------
 
 `National Suicide Prevention Lifeline`_
