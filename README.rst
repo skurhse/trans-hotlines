@@ -7,17 +7,17 @@ Trans Peer lifelines
 --------------------
 
 `Trans Lifeline Hotline`_
-  :emphasis:`US, CAN`
-  - Peer support phone service run by trans people for our trans and questioning peers.
+  USA, Canada - Guaranteed operators from 5pm–1am ET.
+  
+  Peer support phone service run by trans people for our trans and questioning peers.
 
   Call us if you need someone trans to talk to, even if you’re not in crisis or if you’re not sure you’re trans.
 
 Trans Youth lifelines
 ---------------------
 
-`TrevorLifeline`_
-  :emphasis:`US`
-  - 24/7 - Free and confidential phone, text and chat services for LGBTQ young people.
+`TrevorLifeline - US - 24/7`_
+  Free and confidential phone, text and chat services for LGBTQ young people.
   
   We’re here for you. If you are thinking about harming yourself—get immediate support. 
 
@@ -56,7 +56,7 @@ Crisis text lines
   - Free 24/7 confidential text message service for people in crisis.
 
 .. _`Trans Lifeline Hotline`: https://www.translifeline.org/hotline
-.. _`TrevorLifeline`: https://www.thetrevorproject.org/get-help-now/
+.. _`TrevorLifeline - US - 24/7`: https://www.thetrevorproject.org/get-help-now/
 
 .. _`National Suicide Prevention Lifeline`: http://suicidepreventionlifeline.org/talk-to-someone-now/
 
