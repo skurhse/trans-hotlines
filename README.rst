@@ -11,7 +11,7 @@ Peer lifelines
   - Peer support phone service run by trans people for our trans and questioning peers.
 
 Youth lifelines
--------------s
+--------------
 
 `TrevorLifeline`_
   :emphasis:`US`
