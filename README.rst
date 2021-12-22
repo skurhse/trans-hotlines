@@ -3,15 +3,15 @@ Trans Crisis Hotlines
 
 .. contents:: Crisis Hotline Categories
 
-Peer support
-------------
+Peer lifelines
+--------------
 
 `Trans Lifeline Hotline`_
   :emphasis:`US, CAN`
   - Peer support phone service run by trans people for our trans and questioning peers.
 
-Youth support
--------------
+Youth lifelines
+-------------s
 
 `TrevorLifeline`_
   :emphasis:`US`
