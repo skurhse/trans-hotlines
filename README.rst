@@ -7,7 +7,7 @@ Trans Peer lifelines
 --------------------
 
 `Trans Lifeline Hotline`_
-  US, CAN - Guaranteed operators from 5pm–1am ET.
+  US, CAN · Open 24/7 · Guaranteed from 5pm–1am ET
   
   Peer support phone service run by trans people for our trans and questioning peers.
 
@@ -17,7 +17,7 @@ Trans Youth lifelines
 ---------------------
 
 `TrevorLifeline`_
-  US - 24/7
+  US · Open 24/7 · Guaranteed 24/7
 
   Free and confidential phone, text and chat services for LGBTQ young people.
   
