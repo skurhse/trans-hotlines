@@ -72,7 +72,7 @@ Crisis text lines
 `Shout Crisis Text Line`_
   UK  · English  · 24/7
   
-  An anonymous text support service that you can text from anywhere in the UK.
+  An anonymous support service that you can text from anywhere in the UK.
   
   Get help if you are struggling to cope and need to talk.
 
