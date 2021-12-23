@@ -3,7 +3,7 @@ Trans  Hotlines
 
 All hotlines are 100% free and confidential.
 
-.. contents:: Hotline Categories
+.. contents:: Categories
 
 Trans peer lifelines
 --------------------
