@@ -39,7 +39,7 @@ Sexual assault hotlines
 -----------------------
 
 `National Sexual Assault Online Hotline`_
-  USA  · English · 
+  USA  · English, Spanish
   
   - Online confidential crisis support information, advice and referral.
 
