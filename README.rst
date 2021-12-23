@@ -63,14 +63,18 @@ Crisis text lines
 ------------------
 
 `Crisis Text Line`_
-  :emphasis:`USA` 24/7
-  - Text message service for anyone, in any type of crisis.
+  USA · English · 24/7
+  
+  Text message service for anyone, in any type of crisis.
   
   In crisis and need to talk to someone? We’re here for you.
 
 `Shout Crisis Text Line`_
-  :emphasis:`UK`
-  - Free 24/7 confidential text message service for people in crisis.
+  UK  · English  · 24/7
+  
+  Text message service for anyone, in any type of crisis.
+  
+  In crisis and need to talk to someone? We’re here for you.
 
 .. _`Trans Lifeline Hotline`: https://www.translifeline.org/hotline
 .. _`TrevorLifeline`: https://www.thetrevorproject.org/get-help-now/
