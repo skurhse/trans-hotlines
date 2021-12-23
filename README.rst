@@ -53,7 +53,7 @@ Domestic violence hotlines
 --------------------------
 
 `National Domestic Violence Hotline`_
-  US · English · 24/7
+  USA · English · 24/7
   
   Hotline that can help victims and survivors of domestic violence.
 
