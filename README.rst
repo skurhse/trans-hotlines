@@ -1,7 +1,7 @@
 Trans  Hotlines
 ===============
 
-- An active list of hotline web resources for trans and questioning people.
+- An active list of hotline resources for trans and questioning people.
 
 - All hotlines are 100% free and confidential.
 
