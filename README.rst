@@ -72,7 +72,7 @@ Crisis text lines
 `Shout Crisis Text Line`_
   UK  · English  · 24/7
   
-  Text message and WhatsApp message service for anyone, in any type of crisis.
+  Text message, WhatsApp and Facebook services for anyone, in any type of crisis.
   
   In crisis and need to talk to someone? We’re here for you.
 
