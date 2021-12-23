@@ -1,9 +1,9 @@
 Trans  Hotlines
 ===============
 
-- An active list of hotline resources for trans and questioning people.
+An active list of hotline resources for trans and questioning people.
 
-- All included hotlines are 100% free and confidential.
+All included hotlines are 100% free and confidential.
 
 .. contents:: Hotline Categories
 
