@@ -53,9 +53,13 @@ Domestic violence hotlines
 --------------------------
 
 `National Domestic Violence Hotline`_
-  USA · English · 24/7
+  USA · English, Free interpreters · 24/7
   
-  Hotline that can help victims and survivors of domestic violence.
+  Call, chat and text services for people experiencing abuse.
+
+  Advocates are here to listen without judgement and help you begin to address what’s going on in your relationship. 
+
+  Your safety always comes first.
 
 Crisis text lines
 ------------------
