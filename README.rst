@@ -41,11 +41,11 @@ Sexual assault hotlines
 -----------------------
 
 `National Sexual Assault Online Hotline`_
-  USA  · English, Spanish
+  USA  · English, Spanish · 24/7
   
-  - Online confidential crisis support information, advice and referral.
+  - Online, phone and mobile sexual violence crisis support information, advice and referral.
 
-  - Phone hotline to talk to a trained staff member at your local sexual assault service provider.
+  - Find help, advice, and the resources you need.
 
 Domestic violence hotlines
 --------------------------
