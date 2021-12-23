@@ -70,7 +70,7 @@ Crisis text lines
 
 .. _`National Sexual Assault Online Hotline`: https://hotline.rainn.org/
 
-.. _`National Domestic Violence Hotline`: https://www.thehotline.org/help/
+.. _`National Domestic Violence Hotline`: https://www.thehotline.org/get-help/
 
 .. _`Crisis Text Line`: https://www.crisistextline.org/texting-in
 .. _`Shout Crisis Text Line`: https://www.giveusashout.org/get-help/
