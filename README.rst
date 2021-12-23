@@ -65,7 +65,7 @@ Crisis text lines
 `Crisis Text Line`_
   USA · English, Spanish · 24/7
   
-  Text message, Facebook and WhatsApp services for anyone, in any type of crisis.
+  Text message, Facebook and WhatsApp services for anyone in any type of crisis.
   
   In crisis and need to talk to someone? We’re here for you.
 
