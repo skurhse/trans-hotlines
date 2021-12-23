@@ -32,8 +32,8 @@ Suicide prevention lifelines
 
 `National Suicide Prevention Lifeline`_
   USA · English, Spanish, Deaf and Hard of Hearing · 24/7
-  
-  - If you're thinking about suicide, are worried about a friend or loved one, or would like emotional support, the lifeline network is available.
+
+  - Phone service for people who are thinking about suicide, who are worried about a friend or loved one, or who would like emotional support.
   
   - Talk to someone now, no matter what problems you’re dealing with.
 
