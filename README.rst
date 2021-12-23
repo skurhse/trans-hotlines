@@ -43,7 +43,7 @@ Sexual assault hotlines
 `National Sexual Assault Online Hotline`_
   USA  · English, Spanish · 24/7
   
-  - Online, phone and mobile sexual violence crisis support information, advice and referral.
+  - Online, phone and mobile crisis support information, advice and referral.
 
   - Find help, advice, and the resources you need.
 
