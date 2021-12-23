@@ -11,7 +11,7 @@ Trans peer lifelines
 --------------------
 
 `Trans Lifeline Hotline`_
-  USA, Canada · English, Spanish · 24/7 · Guaranteed from 5pm–1am ET
+  USA, Canada · English, Spanish · 24/7, guaranteed from 5pm–1am ET
   
   - Peer support phone service run by trans people for our trans and questioning peers.
 
@@ -23,7 +23,7 @@ Trans youth lifelines
 ---------------------
 
 `TrevorLifeline`_
-  USA · English  · 24/7 · Guaranteed 24/7
+  USA · English · 24/7
 
   - Free and confidential phone, text and chat services for LGBTQ young people.
   
@@ -33,7 +33,7 @@ Suicide prevention lifelines
 ----------------------------
 
 `National Suicide Prevention Lifeline`_
-  USA · English, Spanish, Deaf + Hard of Hearing · 24/7 · Guaranteed 24/7
+  USA · English, Spanish, Deaf + Hard of Hearing · 24/7
   
   - If you're thinking about suicide, are worried about a friend or loved one, or would like emotional support, the lifeline network is available.
   
@@ -53,8 +53,9 @@ Domestic violence hotlines
 --------------------------
 
 `National Domestic Violence Hotline`_
-  :emphasis:`US`
-  - Hotline that can help victims and survivors of domestic violence.
+  US · English · 24/7
+  
+  Hotline that can help victims and survivors of domestic violence.
 
 Crisis text lines
 ------------------
