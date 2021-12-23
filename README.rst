@@ -65,14 +65,14 @@ Crisis text lines
 `Crisis Text Line`_
   USA · English · 24/7
   
-  Text message service for anyone, in any type of crisis.
+  Text message and WhatsApp message services for anyone, in any type of crisis.
   
   In crisis and need to talk to someone? We’re here for you.
 
 `Shout Crisis Text Line`_
   UK  · English  · 24/7
   
-  Text message service for anyone, in any type of crisis.
+  Text message and WhatsApp message service for anyone, in any type of crisis.
   
   In crisis and need to talk to someone? We’re here for you.
 
