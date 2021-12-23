@@ -72,9 +72,9 @@ Crisis text lines
 `Shout Crisis Text Line`_
   UK  · English  · 24/7
   
-  Text message, Facebook and WhatsApp services for anyone, in any type of crisis.
+  An anonymous text support service that you can text from anywhere in the UK.
   
-  In crisis and need to talk to someone? We’re here for you.
+  Get help if you are struggling to cope and need to talk.
 
 .. _`Trans Lifeline Hotline`: https://www.translifeline.org/hotline
 .. _`TrevorLifeline`: https://www.thetrevorproject.org/get-help-now/
