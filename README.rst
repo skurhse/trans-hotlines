@@ -53,7 +53,7 @@ Domestic violence hotlines
 `National Domestic Violence Hotline`_
   USA · English, Free interpreters · 24/7
   
-  - Call, chat and text services for people experiencing abuse.
+  - Call, chat and text message services for people experiencing abuse.
 
   - Advocates are here to listen without judgement and help you begin to address what’s going on in your relationship. 
 
@@ -63,8 +63,10 @@ Crisis text lines
 ------------------
 
 `Crisis Text Line`_
-  :emphasis:`US`
-  - Free 24/7 confidential text message service for people in crisis.
+  :emphasis:`USA` 24/7
+  - Text message service for anyone, in any type of crisis.
+  
+  In crisis and need to talk to someone? We’re here for you.
 
 `Shout Crisis Text Line`_
   :emphasis:`UK`
