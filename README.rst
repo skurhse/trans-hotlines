@@ -1,5 +1,8 @@
-Trans  Hotlines  
+Trans  Hotlines
 ===============
+
+100% free and confidential.
+~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 .. contents:: Hotline Categories
 
