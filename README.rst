@@ -20,9 +20,9 @@ Trans peer lifelines
 `LGBT National Hotline`_
   USA · English · Mon–Fri from 4pm–12am ET, Sat from 12pm–5pm ET
 
-  - Peer support phone service run by trained volunteers who identify somewhere on the LGBTQ spectrum.
+  - Peer support phone service run by trained volunteers who identify on the LGBTQ spectrum.
   
-  - Sometimes you may need just to talk, or hear a kind voice.  We’re here.  You deserve to be heard.
+  - Sometimes you may need just to talk, or hear a kind voice. We’re here. You deserve to be heard.
 
 Trans youth lifelines
 ---------------------
@@ -33,6 +33,13 @@ Trans youth lifelines
   - Phone, text and chat services for LGBTQ young people.
   
   - We’re here for you. If you are thinking about harming yourself—get immediate support. 
+
+`LGBT National Youth Talkline`_
+  USA · English · Mon–Fri from 4pm–12am ET, Sat from 12pm–5pm ET
+
+  - Youth support phone service run by trained volunteers who identify on the LGBTQ spectrum.
+
+  - We provide a safe space that is anonymous and confidential where young callers can speak on many different issues and concerns.
 
 Suicide prevention lifelines
 ----------------------------
@@ -87,6 +94,7 @@ Crisis text lines
 .. _`LGBT National Hotline`: https://www.glbthotline.org/hotline.html
 
 .. _`TrevorLifeline`: https://www.thetrevorproject.org/get-help-now/
+.. _`LGBT National Youth Talkline`: https://www.glbthotline.org/talkline.html
 
 .. _`National Suicide Prevention Lifeline`: http://suicidepreventionlifeline.org/talk-to-someone-now/
 
