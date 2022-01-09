@@ -1,6 +1,6 @@
 # Welcome to the Trans Hotlines Contributing Guide
 
-Thank you for investing your time in contributing to the project. All contributors will be added to the CONTRIBUTORS.md file.
+Thank you for investing your time in contributing to the project. All contributors will be added to the CONTRIBUTORS.md file in alphabetical order.
 
 ## Create a new issue
 
