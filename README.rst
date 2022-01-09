@@ -41,6 +41,16 @@ Trans youth lifelines
 
   - We provide a safe space that is anonymous and confidential where young callers can speak on many different issues and concerns.
 
+Homeless and runaway youth safelines
+------------------------
+
+`National Runaway Safeline`_
+  USA · English · 24/7
+  
+  - Chat, email, forum and text services for runaway and homeless youth.
+  
+  - Your situation is difficult and you may be feeling a wide range of emotions. We’re here to help you sort them out and make a plan.
+
 Suicide prevention lifelines
 ----------------------------
 
@@ -95,6 +105,8 @@ Crisis text lines
 
 .. _`TrevorLifeline`: https://www.thetrevorproject.org/get-help-now/
 .. _`LGBT National Youth Talkline`: https://www.glbthotline.org/talkline.html
+
+.. _`National Runaway Safeline`: https://www.1800runaway.org/
 
 .. _`National Suicide Prevention Lifeline`: http://suicidepreventionlifeline.org/talk-to-someone-now/
 
