@@ -1,7 +1,7 @@
 Trans  Hotlines
 ===============
 
-All hotlines are 100% free and confidential.
+All hotlines listed are 100% free and confidential.
 
 .. contents::
 
