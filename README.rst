@@ -17,6 +17,13 @@ Trans peer lifelines
 
   - No nonconsensual active rescue.
 
+`LGBT National Hotline`_
+  USA · English · Mon–Fri from 4pm–12am ET, Sat from 12pm–5pm ET
+
+  - Peer support phone service run by trained volunteers who identify somewhere on the LGBTQ spectrum.
+  
+  - Sometimes you may need just to talk, or hear a kind voice.  We’re here.  You deserve to be heard.
+
 Trans youth lifelines
 ---------------------
 
@@ -77,6 +84,8 @@ Crisis text lines
   Get help if you are struggling to cope and need to talk.
 
 .. _`Trans Lifeline Hotline`: https://www.translifeline.org/hotline
+.. _`LGBT National Hotline`: https://www.glbthotline.org/hotline.html
+
 .. _`TrevorLifeline`: https://www.thetrevorproject.org/get-help-now/
 
 .. _`National Suicide Prevention Lifeline`: http://suicidepreventionlifeline.org/talk-to-someone-now/
