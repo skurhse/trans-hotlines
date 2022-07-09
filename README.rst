@@ -101,10 +101,10 @@ Crisis text lines
   Get help if you are struggling to cope and need to talk.
 
 .. _`Trans Lifeline Hotline`: https://www.translifeline.org/hotline
-.. _`LGBT National Hotline`: https://www.glbthotline.org/hotline.html
+.. _`LGBT National Hotline`: https://www.lgbthotline.org/national-hotline.html
 
 .. _`TrevorLifeline`: https://www.thetrevorproject.org/get-help-now/
-.. _`LGBT National Youth Talkline`: https://www.glbthotline.org/talkline.html
+.. _`LGBT National Youth Talkline`: https://www.lgbthotline.org/youth-talkline.html
 
 .. _`National Runaway Safeline`: https://www.1800runaway.org/
 
