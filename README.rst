@@ -101,7 +101,7 @@ Crisis text lines
   Get help if you are struggling to cope and need to talk.
 
 .. _`Trans Lifeline Hotline`: https://www.translifeline.org/hotline
-.. _`LGBT National Hotline`: https://www.lgbthotline.org/national-hotline.html
+.. _`LGBT National Hotline`: https://www.lgbthotline.org/national-hotline
 
 .. _`TrevorLifeline`: https://www.thetrevorproject.org/get-help-now/
 .. _`LGBT National Youth Talkline`: https://www.lgbthotline.org/youth-talkline.html
