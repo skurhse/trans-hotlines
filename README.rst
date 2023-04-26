@@ -104,7 +104,7 @@ Crisis text lines
 .. _`LGBT National Hotline`: https://www.lgbthotline.org/national-hotline
 
 .. _`TrevorLifeline`: https://www.thetrevorproject.org/get-help-now/
-.. _`LGBT National Youth Talkline`: https://www.lgbthotline.org/youth-talkline.html
+.. _`LGBT National Youth Talkline`: https://www.lgbthotline.org/youth-talkline
 
 .. _`National Runaway Safeline`: https://www.1800runaway.org/
 
