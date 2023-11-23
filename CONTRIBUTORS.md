@@ -1,4 +1,4 @@
-# Trans Hotlines Contributors (Sorted Alphabetically)
+# Trans Hotlines Contributors
 
 * **[Skurhse Rage 🌆🌃🌌](https://github.com/skurhse)**
 
