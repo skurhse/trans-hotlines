@@ -1,3 +1,3 @@
 # Contributors
 
-* **[Skurhse Rage 🌆🌃🌌](https://github.com/skurhse)**
+* [Skurhse Rage 🌆🌃🌌](https://github.com/skurhse)
